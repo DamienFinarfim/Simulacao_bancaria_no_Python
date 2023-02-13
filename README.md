@@ -1,3 +1,3 @@
-#### Simulação bancária no Python
+#### Bank simulation in Python
 
-##### Foi desenvolvida algumas comandos simples no python para realizar transações bancarias, como criar conta, realizar depositos, saques e extratos.
+##### Some simple commands were developed in python to carry out bank transactions, such as creating an account, making deposits, withdrawals and extracts.
